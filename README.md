@@ -1,5 +1,11 @@
 ### Hola, I'm Anoop Singh! 👋
 
+- 🔭 I work with React, Angular, Python and NodeJs.
+- 🌱 I’m currently learning WebRTC and Natural language processing
+-  :cityscape: Lives in New Delhi.
+- 📫 How to reach me: Twitter: [@anoopraghuvansi](https://twitter.com/anoopraghuvansi), Linkedin: [anoopsingh1996](https://www.linkedin.com/in/anoopsingh1996/), Email: [anoopraghuvansi@gmail.com](anoopraghuvansi@gmail.com)
+- 😄 Pronouns: He/His
+
 <!--
 **anoopsingh1996/anoopsingh1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
