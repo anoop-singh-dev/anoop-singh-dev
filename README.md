@@ -6,7 +6,7 @@
 - 📫 How to reach me: Twitter: [@anoopraghuvansi](https://twitter.com/anoopraghuvansi), Linkedin: [anoopsingh1996](https://www.linkedin.com/in/anoopsingh1996/), Email: [anoopraghuvansi@gmail.com](anoopraghuvansi@gmail.com)
 - 😄 Pronouns: He/His
 
-![Anoop github stats](https://github-readme-stats.vercel.app/api?username=anoopsingh1996&show_icons=true&hide_border=false)
+![Anoop github stats](https://github-readme-stats.vercel.app/api?username=anoopsingh1996&show_icons=true&hide_border=true)
 
 <!--
 **anoopsingh1996/anoopsingh1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
