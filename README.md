@@ -1,4 +1,4 @@
-### 👋 Hola, I'm Anoop Singh!&nbsp;<img src="https://github.com/anoopsingh1996/anoopsingh1996/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+<h1 align="center"> 👋 Hola, I'm Anoop Singh!&nbsp;<img src="https://github.com/anoopsingh1996/anoopsingh1996/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> </h1>
 
 - <img src="https://github.com/anoopsingh1996/anoopsingh1996/blob/master/Assets/Developer.gif" width="20px">I work with React, Angular, Python and NodeJs.
 - 🌱 I’m currently learning WebRTC and Natural language processing
