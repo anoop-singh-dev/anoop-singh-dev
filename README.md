@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hola, I'm Anoop Singh!&nbsp;<img src="https://github.com/anoopsingh1996/anoopsingh1996/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> </h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">  नमस्ते (Namaste)🙏🏻 I'm Anoop Singh!&nbsp;<img src="https://github.com/anoopsingh1996/anoopsingh1996/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> </h1>
 
  <p align="center">
 <img src="https://komarev.com/ghpvc/?username=anoopsingh1996&label=Profile+Views" />
