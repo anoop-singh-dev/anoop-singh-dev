@@ -1,11 +1,12 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">  नमस्ते (Namaste)🙏🏻 I'm Anoop Singh!&nbsp;<img src="https://github.com/anoopsingh1996/anoopsingh1996/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> </h1>
-
+<h1 align="center"> नमस्ते (Namaste)🙏🏻 I'm Anoop Singh! </h1>
+<!-- &nbsp;<img src="https://github.com/anoopsingh1996/anoopsingh1996/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> -->
+<!--  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">  -->
  <p align="center">
 <img src="https://komarev.com/ghpvc/?username=anoopsingh1996&label=Profile+Views" />
 </p>
+<!-- <img src="https://github.com/anoopsingh1996/anoopsingh1996/blob/master/Assets/Developer.gif" width="20px"> -->
 
-
-- <img src="https://github.com/anoopsingh1996/anoopsingh1996/blob/master/Assets/Developer.gif" width="20px">I work with React, Angular, Python and NodeJs.
+- I work with React, Angular, Python and NodeJs.
 - 🌱 I’m currently learning WebRTC and Natural language processing
 -  :cityscape: Lives in New Delhi.
 - 📫 How to reach me: [![Twitter Follow](https://img.shields.io/twitter/follow/anoopraghuvansi?label=Follow)](https://twitter.com/intent/follow?screen_name=anoopraghuvansi),  [![Linkedin: anoop](https://img.shields.io/badge/-anoop-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anoopsingh1996/)](https://www.linkedin.com/in/anoopsingh1996/), [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anoopsingh1996.github.io/)](https://anoopsingh1996.github.io//)
