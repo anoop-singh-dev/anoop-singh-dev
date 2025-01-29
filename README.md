@@ -9,7 +9,7 @@
 
 - 💻 I work with React, Angular, NodeJs, Python, and Machine learning.
 - 🌱 I’m currently exploring LLM ( Large Language Model ).
-- 👨‍💻 All about me available at [anoopsingh.me](http://anoopsingh.me/)
+- 👨‍💻 All about me available at [anoopsingh.xyz](http://anoopsingh.xyz/)
 -  :cityscape: Lives in New Delhi.
 - 📫 How to reach me: [![Twitter Follow](https://img.shields.io/twitter/follow/anoopraghuvansi?label=Follow)](https://twitter.com/intent/follow?screen_name=anoopraghuvansi),  [![Linkedin: anoop](https://img.shields.io/badge/-anoop-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anoopsingh1996/)](https://www.linkedin.com/in/anoopsingh1996/), [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anoopsingh1996.github.io/)](https://anoopsingh1996.github.io//)
 - 😄 Pronouns: He/His
